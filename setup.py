@@ -2,7 +2,6 @@ from setuptools import setup
 
 setup(
     name='greenwavereality',
-    version='0.5.1',
     packages=['greenwavereality'],
     install_requires=[
           'requests',
