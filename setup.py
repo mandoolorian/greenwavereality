@@ -8,7 +8,7 @@ setup(
           'xmltodict',
           'urllib3',
       ],
-    url='https://github.com/dfiel/greenwavereality',
+    url='https://github.com/mandoolorian/greenwavereality.git',
     license='MIT',
     author='David Fiel',
     author_email='github@dfiel.com',
