@@ -1,8 +1,8 @@
 from setuptools import setup
 
 setup(
-    name='greenwavereality',
-    packages=['greenwavereality'],
+    name='tcpgreenwavereality',
+    packages=['tcpgreenwavereality'],
     install_requires=[
           'requests',
           'xmltodict',
